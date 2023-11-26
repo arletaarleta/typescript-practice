@@ -13,6 +13,9 @@ const getUsersOnlineMessage = (num?: number): string => {
   };
   
   // Boolean() === !!
+
+// ćwiczenie 2
+// Zmień argument funkcji processString na opcjonalny, w przypadku braku argumentu funkcja zwraca string 'Nie podano argumentu'.
   
   function Exercise2() {
     return (
