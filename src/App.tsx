@@ -1,5 +1,6 @@
 import './App.css';
 import Exercise1 from './Exercises/Exercise1';
+import Exercise2 from './Exercises/Exercise2';
 
 function App() {
 
@@ -8,6 +9,7 @@ function App() {
     <>
    <h1>Typescript 😎 </h1>
    <Exercise1 />
+   <Exercise2 />
     </>
   )
 }
