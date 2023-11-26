@@ -1,12 +1,13 @@
-import { useState } from 'react'
-import './App.css'
+import './App.css';
+import Exercise1 from './Exercises/Exercise1';
 
 function App() {
-  const [count, setCount] = useState(0)
+
 
   return (
     <>
-   <h1>typescript</h1>
+   <h1>Typescript 😎 </h1>
+   <Exercise1 />
     </>
   )
 }
